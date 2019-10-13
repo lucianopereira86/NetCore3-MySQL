@@ -148,3 +148,8 @@ The result will be:
 Run the GET method again and a new user will appear:
 
 ![netcore16](/docs/netcore16.JPG)
+
+## Conclusion
+
+In order to easily connect with a database we have used the Dapper and MySqlConnector packages.  
+Model classes were created to reflect the table and the connection string.
