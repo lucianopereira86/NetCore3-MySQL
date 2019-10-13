@@ -38,12 +38,7 @@ These are your connection data. Remember the password!
 
 ![mysql03](/docs/mysql03.JPG)
 
-Now download the MySQL Workbench through this link:
-
-```bash
-https://dev.mysql.com/downloads/workbench/
-```
-
+Now download the MySQL Workbench through this [link](https://dev.mysql.com/downloads/workbench/).  
 After the installation process, open the program and click on "Manage Connections...":
 
 ![mysql04](/docs/mysql04.JPG)
@@ -67,7 +62,7 @@ Now, connect to the database:
 We are ready to create our first table.  
 Run the following script inside the "Query 1" tab:
 
-```bash
+```sql
 CREATE TABLE user (
 	id INT PRIMARY KEY AUTO_INCREMENT,
     name varchar(100)
@@ -76,7 +71,7 @@ CREATE TABLE user (
 
 Add some lines:
 
-```bash
+```sql
 INSERT INTO user (name) VALUES ('Luciano');
 INSERT INTO user (name) VALUES ('Sousa');
 INSERT INTO user (name) VALUES ('Pereira');
