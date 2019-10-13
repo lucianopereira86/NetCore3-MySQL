@@ -30,7 +30,7 @@ At the home page, click on "Login" and, in the next page, on the "Create Account
 
 ![mysql01](/docs/mysql01.JPG)
 
-You will receive an e-mail to confirm. Login in the website and create a database:
+Create an account and you will receive an e-mail to confirm. Login in the website and create a database:
 
 ![mysql02](/docs/mysql02.JPG)
 
