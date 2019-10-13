@@ -34,7 +34,7 @@ Create an account and you will receive an e-mail to confirm. Login in the websit
 
 ![mysql02](/docs/mysql02.JPG)
 
-Your database is ready!
+These are your connection data. Remember the password!
 
 ![mysql03](/docs/mysql03.JPG)
 
