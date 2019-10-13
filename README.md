@@ -18,7 +18,7 @@ Connecting a .Net Core 3 web API with a remote MySQL server.
 
 ### MySQL
 
-Let's create a remote MySQL database and then interact with by using the MySQL Workbench.
+Let's create a remote MySQL database and manipulate it with MySQL Workbench.
 
 First, access this website:
 
