@@ -26,7 +26,7 @@ First, access this website:
 https://remotemysql.com/
 ```
 
-Click on Login > Create Account:
+At the home page, click on "Login" and, in the next page, on the "Create Account" tab:
 
 ![mysql01](/docs/mysql01.JPG)
 
